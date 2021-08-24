@@ -1,0 +1,19 @@
+# > DIRECT
+DOMAIN-SUFFIX,host.dkelab.net
+OMAIN-SUFFIX,solid.dkelab.net
+DOMAIN-SUFFIX,www.cs.toronto.edu
+DOMAIN-SUFFIX,mi.com
+DOMAIN,www.google-analytics.com
+DOMAIN,1password.com
+DOMAIN,bing.com
+DOMAIN-SUFFIX,http.kali.org
+DOMAIN,vpn.ynu.edu.cn
+DOMAIN-SUFFIX,cn
+PROCESS-NAME,Maps
+PROCESS-NAME,steam_osx
+PROCESS-NAME,DingTalk
+PROCESS-NAME,Music
+PROCESS-NAME,Notes
+PROCESS-NAME,cloudd
+IP-CIDR,192.168.31.0/24
+P-CIDR,172.105.124.215/24
