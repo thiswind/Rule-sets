@@ -6,5 +6,7 @@ DOMAIN,rsc.ynu.edu.cn
 DOMAIN,www.kkldi.ynu.edu.cn
 DOMAIN,imp.ynu.edu.cn
 DOMAIN,ehall.ynu.edu.cn
+DOMAIN,sites.ynu.edu.cn
+DOMAIN,oa.ynu.edu.cn
 IP-CIDR,202.203.216.0/19
 IP-CIDR,202.203.208.0/21
