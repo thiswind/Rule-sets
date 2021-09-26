@@ -7,6 +7,7 @@ DOMAIN,announce.zerotier.com
 DOMAIN,1password.com
 DOMAIN-SUFFIX,http.kali.org
 DOMAIN,vpn.ynu.edu.cn
+DOMAIN,ehall.ynu.edu.cn
 PROCESS-NAME,Maps
 PROCESS-NAME,steam_osx
 PROCESS-NAME,DingTalk
