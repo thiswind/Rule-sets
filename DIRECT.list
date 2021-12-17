@@ -2,13 +2,14 @@
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,www.cs.toronto.edu
 DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,gitpod.io
 DOMAIN,www.google-analytics.com
 DOMAIN,announce.zerotier.com
 DOMAIN,1password.com
 DOMAIN-SUFFIX,http.kali.org
 DOMAIN,vpn.ynu.edu.cn
 DOMAIN,ehall.ynu.edu.cn
-DOMAIN,gitpod.io
+
 PROCESS-NAME,Maps
 PROCESS-NAME,steam_osx
 PROCESS-NAME,DingTalk
