@@ -10,7 +10,6 @@ DOMAIN-SUFFIX,http.kali.org
 DOMAIN,vpn.ynu.edu.cn
 DOMAIN,ehall.ynu.edu.cn
 DOMAIN,ids.ynu.edu.cn
-DOMAIN-SUFFIX,ynu.edu.cn
 
 PROCESS-NAME,Maps
 PROCESS-NAME,steam_osx
