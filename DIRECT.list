@@ -6,7 +6,7 @@ DOMAIN,www.google-analytics.com
 DOMAIN,announce.zerotier.com
 DOMAIN,1password.com
 DOMAIN-SUFFIX,http.kali.org
-DOMAIN,ynu.edu.cn
+DOMAIN-SUFFIX,ynu.edu.cn
 
 PROCESS-NAME,Maps
 PROCESS-NAME,steam_osx
